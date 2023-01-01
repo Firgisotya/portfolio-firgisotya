@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio-firgisotya/static/css/main.4da9f9d1.css",
+    "main.js": "/portfolio-firgisotya/static/js/main.ba610927.js",
+    "static/media/apochecker.png": "/portfolio-firgisotya/static/media/apochecker.1b15fb86cb3d960715a0.png",
+    "static/media/kitabantuin.png": "/portfolio-firgisotya/static/media/kitabantuin.fac8d8274c7dd3fdce23.png",
+    "static/media/resume.pdf": "/portfolio-firgisotya/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/gorent.png": "/portfolio-firgisotya/static/media/gorent.9b0c1b5bed6b3b8a445b.png",
+    "static/media/boy.png": "/portfolio-firgisotya/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/apotek.png": "/portfolio-firgisotya/static/media/apotek.19fda8862c978e1c6dce.png",
+    "static/media/b2.png": "/portfolio-firgisotya/static/media/b2.d4ff5bf2517d7516e0b3.png",
+    "static/media/glassesimoji.png": "/portfolio-firgisotya/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/b1.png": "/portfolio-firgisotya/static/media/b1.644aa6453bc6c51f8007.png",
+    "static/media/sisbat.png": "/portfolio-firgisotya/static/media/sisbat.a9b1c45998207fdb3393.png",
+    "static/media/thumbup.png": "/portfolio-firgisotya/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/portfolio-firgisotya/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portfolio-firgisotya/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portfolio-firgisotya/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portfolio-firgisotya/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/portfolio-firgisotya/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/portfolio-firgisotya/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/portfolio-firgisotya/index.html",
+    "main.4da9f9d1.css.map": "/portfolio-firgisotya/static/css/main.4da9f9d1.css.map",
+    "main.ba610927.js.map": "/portfolio-firgisotya/static/js/main.ba610927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da9f9d1.css",
+    "static/js/main.ba610927.js"
+  ]
+}
